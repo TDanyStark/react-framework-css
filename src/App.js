@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h1>Frameworks css en react</h1>
-      <Bootstrap/>
+      <Bootstrap />
     </div>
   );
 }
